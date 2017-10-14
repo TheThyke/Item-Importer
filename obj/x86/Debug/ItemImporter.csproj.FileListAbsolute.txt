@@ -1,0 +1,6 @@
+C:\Users\TheThyke\Downloads\Compressed\ItemImporter 1.04 source\ItemImporter 1.04 source\bin\Debug\ItemImporter.exe
+C:\Users\TheThyke\Downloads\Compressed\ItemImporter 1.04 source\ItemImporter 1.04 source\bin\Debug\ItemImporter.pdb
+C:\Users\TheThyke\Downloads\Compressed\ItemImporter 1.04 source\ItemImporter 1.04 source\obj\x86\Debug\ItemImporter.csprojResolveAssemblyReference.cache
+C:\Users\TheThyke\Downloads\Compressed\ItemImporter 1.04 source\ItemImporter 1.04 source\obj\x86\Debug\ItemImporter.csproj.CoreCompileInputs.cache
+C:\Users\TheThyke\Downloads\Compressed\ItemImporter 1.04 source\ItemImporter 1.04 source\obj\x86\Debug\ItemImporter.exe
+C:\Users\TheThyke\Downloads\Compressed\ItemImporter 1.04 source\ItemImporter 1.04 source\obj\x86\Debug\ItemImporter.pdb
